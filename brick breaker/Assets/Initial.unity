@@ -2368,7 +2368,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   blocks:
-  - {fileID: 0}
+  - {fileID: 1283389577}
+  - {fileID: 529932273}
+  - {fileID: 1269557375}
+  - {fileID: 1041636063}
   gameOverUI: {fileID: 1075637226}
   gameClearUI: {fileID: 637578218}
   ball: {fileID: 971712228}
@@ -2715,10 +2718,10 @@ SceneRoots:
   - {fileID: 1977166210}
   - {fileID: 971712227}
   - {fileID: 1244705170}
-  - {fileID: 1041636067}
   - {fileID: 1283389576}
   - {fileID: 529932277}
   - {fileID: 1269557379}
+  - {fileID: 1041636067}
   - {fileID: 1520075745}
   - {fileID: 1075637230}
   - {fileID: 637578222}
