@@ -147,3 +147,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   lifetime: 1
+  forceX: 0
+  forceY: 0
+  forceZ: 100
