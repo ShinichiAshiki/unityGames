@@ -14,8 +14,7 @@ public class GameManager : MonoBehaviour
         if (Input.GetMouseButtonDown(0))//0:左クリック 1:右クリック
         {
             mousePos = Input.mousePosition;
-
-            mousePos.z = 6f;
+            mousePos.z = 5f;
             Instantiate(butlletPrefab,
             Camera.main.ScreenToWorldPoint(mousePos), Quaternion.identity);
         }
