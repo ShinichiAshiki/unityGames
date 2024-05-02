@@ -15,7 +15,7 @@ public class GameManager : MonoBehaviour
         {
             mousePos = Input.mousePosition;
 
-            mousePos.z = 5f;
+            mousePos.z = 6f;
             Instantiate(butlletPrefab,
             Camera.main.ScreenToWorldPoint(mousePos), Quaternion.identity);
         }
